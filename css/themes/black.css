@@ -1,3 +1,6 @@
+body{
+  background-color: lightgrey;
+}
 h1, h2, h3, h4, h5, h6 {
     color: #000;
 }
@@ -63,6 +66,15 @@ a.view-theme{
 .btn-danger:hover{
     background-color:  rgba(204,75,55,0.6);
 }
+.btn-link{
+    border: none;
+    color: white;
+    background: none;
+}
+.btn-link:hover{
+    background: none;
+    color: grey;
+}
 
 
 
@@ -83,5 +95,14 @@ h4.nav-title{
 .navbar-default .nav> li > a:hover,
 .navbar-default .nav> li.active > a {
     background-color: rgba(0,0,0,1);
+    color: white;
+}
+
+.card{
+ background: #000000;
+ color: white;
+}
+
+h3.card-title{
     color: white;
 }
