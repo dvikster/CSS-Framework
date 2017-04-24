@@ -55,8 +55,12 @@ h6{
     font-size: 20px;
     line-height: 22px;
 }
-
-
+p{
+  padding-bottom:15px
+}
+a{
+  text-decoration:none;
+}
 a.view-theme{
     font-size: 30px;
     line-height: 32px;

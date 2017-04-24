@@ -12,6 +12,7 @@
     cursor: pointer;
     -webkit-transition: background-color 0.25s ease-out, color 0.25s ease-out;
     transition: background-color 0.25s ease-out, color 0.25s ease-out;
+
 }
 
 .btn{
@@ -70,4 +71,12 @@
 }
 .btn-danger:hover{
     background-color: #cc4b37;
+}
+.btn-link{
+    border: none;
+    color: grey;
+}
+.btn-link:hover{
+    background: none;
+    color: black;
 }
