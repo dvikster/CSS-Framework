@@ -1,4 +1,8 @@
 @import url("buttons.css");
 @import url("navigation.css");
 @import url("chips.css");
+@import url("list_badges.css");
+@import url("pager.css");
+@import url("media.css");
+
 /* for my future structure with Sass*/

@@ -1,0 +1,27 @@
+.media_wrapp{
+    background-color: white;
+    padding: 20px 0;
+}
+.media{
+    margin: 20px;
+    font-size: 14px;
+}
+.media-left{
+    display: inline-block;
+    width: 66px;
+    height:auto;
+    vertical-align: top;
+
+}
+.media-body{
+    display: inline-block;
+    width: calc(100% - 80px);
+    vertical-align: top;
+}
+.media-heading{
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.media.comment-left{
+    margin-left: 90px;
+}
