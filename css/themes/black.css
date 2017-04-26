@@ -68,15 +68,13 @@ a.view-theme{
 }
 .btn-link{
     border: none;
-    color: white;
+    color: #ffffff;
     background: none;
 }
 .btn-link:hover{
     background: none;
     color: grey;
 }
-
-
 
 
 h4.nav-title{
@@ -93,45 +91,58 @@ h4.nav-title{
 .navbar-default .nav> li > a:hover,
 .navbar-default .nav> li.active > a {
     background-color: rgba(0,0,0,1);
-    color: white;
+    color: #ffffff;
 }
 
 .card{
  background: #000000;
- color: white;
+ color: #ffffff;
 }
 
 h3.card-title{
-    color: white;
+    color: #ffffff;
 }
 
 
 ul.list-group{
     border: 1px solid #ffffff;
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
 }
 .list-group li:not(:first-child){
     border-top: 1px solid #ffffff;
 }
 .list-group li .badge{
-    color: black;
+    color: #000000;
     background-color: #ffffff;
 }
 
 ul.pagination{
     border: 1px solid #ffffff;
     background-color: #000000;
-    color: white;
+    color: #ffffff;
 }
 .pagination li:not(:first-child){
     border-left: 1px solid #ffffff;
 }
 ul.pagination li a{
-    color: white;
+    color: #ffffff;
 }
 
 .media_wrapp{
-    background-color: black;
-    color: white;
+    background-color: #000000;
+    color: #ffffff;
+}
+.hero{
+    background-color: #000000;
+    color: #ffffff;
+}
+.hero h1 {
+    color: #ffffff;
+}
+.panel {
+    border: 1px solid #000000;
+}
+.panel-title {
+    background-color: #000000;
 }
